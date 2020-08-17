@@ -55,6 +55,7 @@ const Input = props => {
       <input
         id={props.id}
         type={props.type}
+        autoComplete={props.autocomplete}
         placeholder={props.placeholder}
         onChange={changeHandler}
         onBlur={touchHandler}
