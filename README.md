@@ -17,15 +17,11 @@ You will also see any lint errors in the console.
 App for sharing visited places.<br />
 See the website [Plashare](https://dt-myplaces2.herokuapp.com) for more information.
 
-### `npm run build`
+### `Backend`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+REST API backend with Node.js & Express.<br />
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the backend [repository](https://github.com/david-toker/sharing-places-backend) for more details.
 
 ### `npm run eject`
 
