@@ -22,9 +22,3 @@ See the website [Plashare](https://dt-myplaces2.herokuapp.com) for more informat
 REST API backend with Node.js & Express.<br />
 
 See the backend [repository](https://github.com/david-toker/sharing-places-backend) for more details.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-
