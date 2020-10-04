@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `Description of project`
+## `Description of project`
 
 App for sharing visited places.<br />
 See the website [Plashare](https://dt-myplaces2.herokuapp.com) for more information.
